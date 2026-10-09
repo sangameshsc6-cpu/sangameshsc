@@ -21,6 +21,7 @@ I'm looking for an entry-level opportunity where I can apply my technical knowle
 **Programming Languages**
 
 * Python
+* 
 
 **Areas of Interest**
 
